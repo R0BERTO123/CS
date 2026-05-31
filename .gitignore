@@ -3,4 +3,6 @@ bin/
 obj/
 C#.csproj
 .vscode/
+testes
+Semaforo
 
